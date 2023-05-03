@@ -84,8 +84,8 @@ hr {
 }
 
 .image {
-  width: 200px;
-  height: 10px;
+  width: 100px;
+  height: auto;
 }
 
 h4 {
