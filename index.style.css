@@ -84,7 +84,8 @@ hr {
 }
 
 .image {
-  font-size: 18px !important;
+  width: 200px;
+  height: auto;
 }
 
 h4 {
