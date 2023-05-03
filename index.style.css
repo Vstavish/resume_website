@@ -83,6 +83,10 @@ hr {
   padding: 14px 16px;
 }
 
+.image {
+  font-size: 18px !important;
+}
+
 h4 {
 margin-left: 0%;
 }
